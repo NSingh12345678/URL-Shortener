@@ -1,0 +1,2 @@
+#
+The project aims to develop a system that generates and stores short URLs for full-length URLs. It also includes a search functionality to retrieve the stored URLs using MongoDB Atlas as the database. The project is implemented using Node.js and utilizes MongoDB Cloud as the database solution.
